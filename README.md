@@ -1,4 +1,4 @@
-# Artecnologia
+# Locator
 Just an Android App for a proyect OpenSource of AiXKare 
 
 ## This is just a site publicly available for courses available at Udemy in the near future.
